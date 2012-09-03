@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Introduction to ARMvisor}{1}
+\contentsline {subsection}{\numberline {1.1}What is ARMvisor}{1}
+\contentsline {subsection}{\numberline {1.2}How to use ARMvisor}{2}
+\contentsline {section}{\numberline {2}Use ARMvisor on QEMU}{2}
+\contentsline {subsection}{\numberline {2.1}How to use QEMU to run the Host OS?}{3}
+\contentsline {subsubsection}{\numberline {2.1.1}How to get QEMU to run the Host OS?}{3}
+\contentsline {subsubsection}{\numberline {2.1.2}How to get the kernel image of Host OS?}{4}
+\contentsline {subsubsection}{\numberline {2.1.3}How to get the root file system of Host OS?}{4}
+\contentsline {subsubsection}{\numberline {2.1.4}How to run the Host OS?}{4}
+\contentsline {subsection}{\numberline {2.2}Put the Guest OS into the Root File System of the Host OS}{4}
+\contentsline {subsubsection}{\numberline {2.2.1}How to get the Guest OS?}{5}
+\contentsline {subsubsection}{\numberline {2.2.2}How to set NFS?}{5}
+\contentsline {subsubsection}{\numberline {2.2.3}Put the Guest OS into NFS folder}{6}
+\contentsline {subsection}{\numberline {2.3}Run the Host OS and Guest OS}{7}
+\contentsline {section}{\numberline {3}Build source codes by yourself}{8}
+\contentsline {subsection}{\numberline {3.1}Prerequisites}{8}
+\contentsline {subsubsection}{\numberline {3.1.1}Software environment}{8}
+\contentsline {subsection}{\numberline {3.2}How to build ARMvisor by yourself}{8}
+\contentsline {subsubsection}{\numberline {3.2.1}How to install and use the toolchain}{8}
+\contentsline {subsubsection}{\numberline {3.2.2}How to build your Host OS kernel image with ARMvisor from source code}{8}
+\contentsline {subsubsection}{\numberline {3.2.3}How to build the QEMU which is for booting the Guest OS?}{11}
+\contentsline {subsubsection}{\numberline {3.2.4}How to build the kernel image of the Guest OS?}{12}
